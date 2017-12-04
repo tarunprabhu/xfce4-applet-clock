@@ -1,0 +1,8 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Name=Analog Clock
+Comment=Analog Clock showing date and time
+Icon=appointment-soon
+X-XFCE-Module=appletclock
+X-XFCE-Internal=false
+X-XFCE-API=2.0
